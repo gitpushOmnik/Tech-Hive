@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "vecteezy_honeycomb-hive-logo-vector-design-honey-icon-flat-vector_13075697.jpg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
